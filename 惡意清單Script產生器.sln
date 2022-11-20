@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33015.44
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataReadExcel", "DataReadExcel\DataReadExcel.csproj", "{E8E54E21-0D0F-492E-BFA7-8CE74FB2C8CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "惡意清單Script產生器", "DataReadExcel\惡意清單Script產生器.csproj", "{E8E54E21-0D0F-492E-BFA7-8CE74FB2C8CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA1A3AAA-CBFE-4773-AE6E-3261FAA8700E}
 	EndGlobalSection
 EndGlobal
